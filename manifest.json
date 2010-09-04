@@ -1,0 +1,7 @@
+{
+  "name": "Add a close tab on context menu",
+  "description": "Simple as add a context menu entry to close the current tab.",
+  "version": "0.1",
+  "permissions": ["contextMenus", "tabs"],
+  "background_page": "background.html"
+}
