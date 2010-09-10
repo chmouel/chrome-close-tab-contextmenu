@@ -3,5 +3,6 @@
   "description": "Simple as add a context menu entry to close the current tab.",
   "version": "0.1",
   "permissions": ["contextMenus", "tabs"],
+  "icons": { "128": "icon_128.png" },
   "background_page": "background.html"
 }
